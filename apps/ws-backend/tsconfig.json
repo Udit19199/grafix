@@ -1,0 +1,3 @@
+{
+    "extends": "@grafix/typescript-config/base.json"
+}
